@@ -1,4 +1,4 @@
-/* Body Tracker Node 
+/* астра отслежыватель тела узел
    Publish data as 3 messages:
    
    Publish data messages:
