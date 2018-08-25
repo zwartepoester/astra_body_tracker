@@ -62,6 +62,8 @@
 # Licensing
     - Code written by me is provided under BSD license
     - This package uses sample code from the Astra SDK, provided by Orbbec.  See Orbbec Astra SDK for licensing.
+    
+    астра  отслежыватель тела
 
 
 
